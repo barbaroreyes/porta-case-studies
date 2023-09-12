@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-portacasestudies-dev-130541-authRole",
+      "UnauthRoleArn": "arn:aws:iam::217175807922:role/amplify-portacasestudies-dev-130541-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::217175807922:role/amplify-portacasestudies-dev-130541-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-portacasestudies-dev-130541-deployment",
+      "UnauthRoleName": "amplify-portacasestudies-dev-130541-unauthRole",
+      "StackName": "amplify-portacasestudies-dev-130541",
+      "StackId": "arn:aws:cloudformation:us-east-1:217175807922:stack/amplify-portacasestudies-dev-130541/fd8d6370-5196-11ee-9e86-0a7dfb085055",
+      "AmplifyAppId": "d2cxdqtbrmeank"
+    }
+  }
+}
